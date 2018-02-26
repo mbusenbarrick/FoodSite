@@ -1,0 +1,11 @@
+C:\Dev\FoodSite\FoodSite\bin\Debug\netcoreapp2.0\FoodSite.deps.json
+C:\Dev\FoodSite\FoodSite\bin\Debug\netcoreapp2.0\FoodSite.runtimeconfig.json
+C:\Dev\FoodSite\FoodSite\bin\Debug\netcoreapp2.0\FoodSite.runtimeconfig.dev.json
+C:\Dev\FoodSite\FoodSite\bin\Debug\netcoreapp2.0\FoodSite.dll
+C:\Dev\FoodSite\FoodSite\bin\Debug\netcoreapp2.0\FoodSite.pdb
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.csprojResolveAssemblyReference.cache
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.csproj.CoreCompileInputs.cache
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.AssemblyInfoInputs.cache
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.AssemblyInfo.cs
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.dll
+C:\Dev\FoodSite\FoodSite\obj\Debug\netcoreapp2.0\FoodSite.pdb
